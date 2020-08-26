@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <div id="nav">
-      jklgklj
+      title 수정을 다시해
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
     </div>
